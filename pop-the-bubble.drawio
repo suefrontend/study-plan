@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-11T11:32:06.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="b41cko2EvgYWK3knOZP4" version="19.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-11T11:33:40.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="Antny_Jj7lw6y7Qs7jqa" version="19.0.3" type="github" pages="2">
   <diagram id="JJPUWT6IK4F_1gokYnpI" name="Pop the Bubbles">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -114,14 +114,11 @@
         <mxCell id="0GeYH0TyajMExwWwGTbC-27" value="17:45" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="198" y="202" width="55" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0GeYH0TyajMExwWwGTbC-28" value="Chores" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="50" y="320" width="100" height="30" as="geometry" />
+        <mxCell id="0GeYH0TyajMExwWwGTbC-28" value="Morning Chores" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="50" y="320" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0GeYH0TyajMExwWwGTbC-29" value="Eat" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="50" y="350" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0GeYH0TyajMExwWwGTbC-30" value="Bath Time" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="50" y="380" width="100" height="30" as="geometry" />
+        <mxCell id="0GeYH0TyajMExwWwGTbC-31" value="Evening Chores" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="50" y="360" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
